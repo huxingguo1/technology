@@ -1,0 +1,2 @@
+Application Version: ${yunsite.version}
+Spring Boot Version: ${spring-boot.version}
